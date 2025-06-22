@@ -15,7 +15,7 @@ export default function About() {
                     I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.  
                   </p>
                   <div className="">
-                      <a  href="#projects">
+                      <a  href="#contact">
                         <Button className="mx-auto inline  mt-7 font-bold text-xl cursor-pointer " color="alternative">Contact Me</Button>
                       </a>
                       <a href="/3ab7alemCv.pdf" download >
