@@ -2,7 +2,7 @@ import { Navbar, NavbarBrand, NavbarCollapse, NavbarLink, NavbarToggle } from "f
 
 export function Nav() {
   return (
-    <Navbar fluid  className="bg-gray-950  p-5 shadow-md shadow-gray-400 fixed w-full">
+    <Navbar fluid  className="bg-gray-950 z-50  p-5 shadow-md shadow-gray-400 fixed w-full">
       <NavbarBrand  href="https://flowbite-react.com">
         <span className="text-white text-2xl font-bold">ABDELHALEM</span>
       </NavbarBrand>
