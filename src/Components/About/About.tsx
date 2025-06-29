@@ -18,7 +18,7 @@ export default function About() {
                       <a  href="#contact">
                         <Button className="mx-auto inline  mt-7 font-bold text-xl cursor-pointer " color="alternative">Contact Me</Button>
                       </a>
-                      <a href="/3ab7alem_Cv.pdf" download >
+                      <a href="/MOHAMED ABDALHALIM_CV.pdf" download >
                         <Button className="mx-auto inline ms-3 mt-7 font-bold text-xl cursor-pointer "  color="alternative">View Cv <i className="fa-solid fa-download"></i></Button>
                       </a>
                   </div>
